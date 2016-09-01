@@ -1,4 +1,4 @@
-FROM ashtreecc/android:24.4.1
+FROM ashtreecc/android:latest
 
 MAINTAINER Andrew Nash "akahadaka@gmail.com"
 
